@@ -1,2 +1,2 @@
 # sandbox
-Practice space for tools and techniques in front-end development
+Practice space for various tools and techniques in front-end development
